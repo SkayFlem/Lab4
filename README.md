@@ -16,7 +16,8 @@
         printf("Гипотеза не подтверждена: не все числа кратны трем.\n");`
 5. **Конец**
 ### Блок-схема
-![лаба4_схемка](https://github.com/user-attachments/assets/4a2a2f58-970b-40bf-a73e-bcb1e85a047f)
+<img width="121" height="391" alt="Диаграмма без названия drawio (7)" src="https://github.com/user-attachments/assets/e7ac5fa4-d00b-4384-b905-c52be32bf865" />
+
 
 
 
