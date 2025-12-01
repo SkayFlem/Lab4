@@ -21,4 +21,5 @@ int main() {
     printf("первая цифра %d\n", first);
     printf("средняя цифра %d\n", mid);
     printf("сумма цифр %d\n", sumaa);
+    return 0;
 }
